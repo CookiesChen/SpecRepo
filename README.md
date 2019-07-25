@@ -1,0 +1,2 @@
+# SpecRepo
+Private Podspec Repo
